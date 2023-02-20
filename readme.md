@@ -1,5 +1,5 @@
 # Javascript Operators & Control and flow
-Qustion 1: The symbols for each of the below Javascript operators:
+Question 1: The symbols for each of the below Javascript operators:
 
 Arithmetic Operators:  addition operator +, subtraction - , multiplication * , division  / and remainder of division % .
 We also have the exponentiation (**) ,increment (++), decrement (--).
@@ -12,7 +12,7 @@ Logical Operators: AND (&&), OR (||)and NOT(!).
 
 Bitwise Operators: Bitwise AND (&), Bitwise OR (|), Bitwise NOT (~), Bitwise XOR(^), Bitwise left shift (<<), Bitwise right shift (>>) and Bitwise Right shift with zero(>>>).
 
-Qustion 2:Examples for each JavaScript Operator:
+Question 2:Examples for each JavaScript Operator:
 
 Arithmetic Operators:
 Example 1: let x = 5, y = 10;
@@ -177,7 +177,7 @@ a >> 2 // returns 12
 
 a >>> 5 // returns 1.
 
-Qustion 4:
+Question 4:
  the resulte of the 
 
  for (let i = 1; i<20 ; i+= 7){

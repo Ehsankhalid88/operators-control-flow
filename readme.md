@@ -1,4 +1,4 @@
-#Javascript Operators & Control and flow
+# Javascript Operators & Control and flow
 Qustion 1: The symbols for each of the below Javascript operators:
 
 Arithmetic Operators:  addition operator +, subtraction - , multiplication * , division  / and remainder of division % .
